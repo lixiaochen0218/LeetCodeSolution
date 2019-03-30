@@ -1,3 +1,3 @@
 # codingTests
 
-## Simple and easy understand solutions for LeetCode medium and hard problems.
+## Simple and easy understanding solutions for LeetCode medium and hard problems.
