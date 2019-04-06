@@ -11,7 +11,6 @@ public class LeetCode752 {
         for(String s:deadends){
             deadSet.add(s);
         }
-        System.out.println(deadSet.size());
         String start = "0000";
         if(deadSet.contains(start))
             return -1;
@@ -29,7 +28,6 @@ public class LeetCode752 {
                         if(aa.equals(target))
                             return steps;
                         if(!deadSet.contains(aa) && !visitedSet.contains(aa)){
-                            // System.out.println(aa + ": " +deadSet.contains(aa));
                             queue.add(aa);
                             visitedSet.add(aa);
                         }
