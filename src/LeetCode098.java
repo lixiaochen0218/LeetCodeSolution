@@ -1,4 +1,4 @@
-public class LeetCode98 {
+public class LeetCode098 {
     public class TreeNode {
         int val;
         TreeNode left;

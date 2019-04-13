@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class LeetCode4 {
+public class LeetCode004 {
     public double findMedianSortedArrays(int[] A, int[] B) {
         int n = A.length;
         int m = B.length;
