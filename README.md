@@ -2,20 +2,20 @@
 
 ## My easy understanding solutions for LeetCode medium and hard problems.
 
-# Arrays
-# Arrays(two pointers)
+Arrays
+Arrays(two pointers)
 
-# LinkedList(NodeList, TreeList)
+LinkedList(NodeList, TreeList)
 
-# BST(Binary search tree)
+BST(Binary search tree)
 
-# HashSet/HashMap
+HashSet/HashMap
 
-# BackTracking
+BackTracking
 
-# BFS
-# DFS
+BFS
+DFS
 
-# Trie
+Trie
 
 
